@@ -41,18 +41,48 @@
 </tr>
 </table>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Renish Bhuva GitHub proof metrics" />
+</picture>
+</p>
+
 <h2>Selected work</h2>
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/RenishBhuva07/UrbanFork-Food-Delivery">UrbanFork-Food-Delivery</a></h3><p>Ai Food Delivery App Design</p><p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/RenishBhuva07/Regius">Regius</a></h3><p>Regius : An AI-powered voice assistant for smart task management, intelligent reminders, and natural conversations.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/RenishBhuva07/sca_n_fc">sca_n_fc</a></h3><p>Scan. Tap. Repeat.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/RenishBhuva07/Luminous-AI">Luminous-AI</a></h3><p>Luminous — An elegant AI chatbot mobile app powered by intelligent conversation. A luminous AI chat experience. Smart, simple, and beautifully designe</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&repos=renishbhuva07%2FUrbanFork-Food-Delivery%2Crenishbhuva07%2FRegius%2Crenishbhuva07%2Fsca_n_fc%2Crenishbhuva07%2FLuminous-AI&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&repos=renishbhuva07%2FUrbanFork-Food-Delivery%2Crenishbhuva07%2FRegius%2Crenishbhuva07%2Fsca_n_fc%2Crenishbhuva07%2FLuminous-AI&v=recruiter-projects-1&mode=dark" width="100%" alt="Renish Bhuva selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/RenishBhuva07/UrbanFork-Food-Delivery">UrbanFork-Food-Delivery</a></h3>
+<p>Ai Food Delivery App Design</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/RenishBhuva07/UrbanFork-Food-Delivery">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/RenishBhuva07/Regius">Regius</a></h3><p>Regius : An AI-powered voice assistant for smart task management, intelligent reminders, and natural conversations.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/RenishBhuva07/sca_n_fc">sca_n_fc</a></h3><p>Scan. Tap. Repeat.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/RenishBhuva07/Luminous-AI">Luminous-AI</a></h3><p>Luminous — An elegant AI chatbot mobile app powered by intelligent conversation. A luminous AI chat experience. Smart, simple, and beautifully designe</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
 <h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Renish Bhuva technology stack" />
+</picture>
+</p>
 
 <table width="100%">
 <tr>
@@ -64,6 +94,15 @@
 </tr>
 </table>
 
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=renishbhuva07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109648824%3Fu%3D58f73904ca53a1a9b78fa53831ea879ad3d09ec9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Renish Bhuva contribution activity" />
+</picture>
+</p>
+
 <hr />
 
 <table width="100%">
@@ -73,4 +112,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>Renish Bhuva · recruiter-ready profile</sub></p>
+<p align="center"><sub>Renish Bhuva · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
