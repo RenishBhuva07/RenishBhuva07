@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · renishbhuva07</sub></p>
 <h1>Renish Bhuva</h1>
-<h2>Full-stack Mobile engineer</h2>
+<h2>Full-stack Mobile Engineer</h2>
 <p>An Engineer on a mission to unify Mobile and Web platforms through React (Typescript-Javascript).</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Ahmedabad</sub></p>
